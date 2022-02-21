@@ -10,4 +10,4 @@ bash:
 	docker-compose run --rm bot bash
 
 start:
-	docker-compose run --rm --service-ports bot
+	docker-compose run --rm bot
